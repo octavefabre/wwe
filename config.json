@@ -1,0 +1,13 @@
+{
+    "explications": "Ce fichier référence toutes les informations nécessaires à l'application pour fonctionner. Entre autres : établir une connexion à la base de données ainsi que certains chemins (paths). Ce fichier est à adapter selon votre configuration (si vous êtes sur Laragon, Valet, MAMP, que vous avez changé ou non vos accès BDD, etc.)",
+    "db": {
+      "host": "localhost",
+      "name": "wwe",
+      "user": "root",
+      "passwd": "root"
+    },
+    "paths":{
+      "views" : "app/views/pages/"
+    }
+  }
+
