@@ -3,8 +3,8 @@
     "db": {
       "host": "localhost",
       "name": "wwe",
-      "user": "root",
-      "passwd": "root"
+      "user": "changeme",
+      "passwd": "changeme"
     },
     "paths":{
       "views" : "app/views/pages/"
